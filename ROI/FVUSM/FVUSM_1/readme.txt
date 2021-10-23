@@ -1,5 +1,5 @@
 主程式:
-python ROI_main.py -f ./FVUSM1_raw_data/ -s ./result1/ -e ./expc1/ -r ./draw1/
+python ROI_main2.py -f ./FVUSM1_raw_data/ -s ./result1/ -e ./expc1/ -r ./draw1/
 
 需要clahe:取消註解 430 431行
 -------------------------------------------------------------------------------------
