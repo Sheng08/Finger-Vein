@@ -17,10 +17,10 @@
 ![2](https://user-images.githubusercontent.com/58781800/140339007-a865e8b3-fecc-4ef5-b55c-c6884421b2fb.png)
 
 ROI定位比較<br>
-![3](https://user-images.githubusercontent.com/58781800/140339011-36953e8e-712f-4c91-b191-24491bea172d.png)
+![螢幕擷取畫面 2021-11-04 230936](https://user-images.githubusercontent.com/58781800/140340960-6bb71fbf-b7cb-44b3-89fd-8bb0167e73b4.jpg)
 
 Haar小波轉換加強影像特徵<br>
-![4](https://user-images.githubusercontent.com/58781800/140339016-de61c2bc-9798-4f90-b3dc-648a5549c6eb.png)
+![螢幕擷取畫面 2021-11-04 230922](https://user-images.githubusercontent.com/58781800/140341044-93d3278f-0daf-42df-b721-f92d7b35f564.jpg)
 
 Alexnet訓練結果準確度達約97%<br>
 ![螢幕擷取畫面 2021-11-04 230518](https://user-images.githubusercontent.com/58781800/140339020-fc039fa5-4f14-4752-91cd-7d67f845f59e.jpg)
